@@ -1,5 +1,5 @@
 #!/bash/bin
 
-echo ok
+echo fail
 return
 
