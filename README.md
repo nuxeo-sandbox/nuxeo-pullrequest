@@ -11,4 +11,5 @@ NXBT-1060: test PR with squashed commits
 NXBT-1060: test PR with squashed commits
 
 test rebase and push for Jenkins
+add a conflicting change
 
